@@ -11,6 +11,7 @@ Saved/
 *.userprefs
 
 
+
 # Logs & crash reports
 *.log
 *.dmp
@@ -19,3 +20,6 @@ Saved/
 # macOS / Windows noise
 .DS_Store
 Thumbs.db
+
+
+
