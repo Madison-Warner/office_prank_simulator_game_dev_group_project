@@ -1,0 +1,25 @@
+# Unreal Engine standard ignores
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+*.sln
+*.suo
+*.user
+*.userprefs
+
+
+
+# Logs & crash reports
+*.log
+*.dmp
+*.pid
+
+# macOS / Windows noise
+.DS_Store
+Thumbs.db
+
+
+
